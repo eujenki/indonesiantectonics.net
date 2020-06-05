@@ -44,9 +44,6 @@ kramdown:
 exclude:
   - optional
   - vendor
-  - ed..gemspec
-  - Gemfile
-  - Gemfile.lock
   - backstop_data
   - backstop.json
 

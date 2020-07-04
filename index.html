@@ -13,10 +13,7 @@ layout: default
   {% for item in site.posts %}
 
     <li class="text-title">
-      <a href="{{ site.url }}{{ site.baseurl }}{{ item.url }}">
-        {{ item.title }}
-      </a> by {{ item.author }},
-      {{ item.date|date:"%b %e, %Y" }}
+      <a href="{{ site.url }}{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a> by {{ item.author }}, {{ item.date|date:"%b %e, %Y" }}
     </li>
   {% endfor %}
   </ul>

@@ -18,15 +18,10 @@ color-scheme:
 
 # Permalinks
 permalink: pretty
-permalink: /:title/
+permalink: /:year/:month/:day/:title/
 
 # Set encoding to UTF-8
 encoding: utf-8
-
-# Collections for texts
-collections:
-  texts:
-    output: true
 
 # Markdown specs
 markdown: kramdown

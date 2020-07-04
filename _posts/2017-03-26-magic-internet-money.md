@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Magic Internet Money
+author: Andreas Antonopoulos
 ---
 
 ---
 
-[@aantonop](https://twitter.com/aantonop) in [The Stories We Tell About Money](https://www.youtube.com/watch?v=ONvg9SbauMg#t=24m27s), Mumbai, India
+[Andreas Antonopoulos](https://twitter.com/aantonop) in [The Stories We Tell About Money](https://www.youtube.com/watch?v=ONvg9SbauMg#t=24m27s), Mumbai, India
 
 Most of us can not hold a 15 minute conversation with a 6 year old about money. Because the 6 year old has good questions. And we have no answers.
 

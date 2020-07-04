@@ -10,12 +10,13 @@ layout: default
 <div class="toc">
   <h2>Categories</h2>
   <ul class="texts">
-  {% for item in site.texts %}
+  {% for item in site.posts %}
 
     <li class="text-title">
       <a href="{{ site.url }}{{ site.baseurl }}{{ item.url }}">
         {{ item.title }}
-      </a>
+      </a> by {{ item.author }},
+      {{ item.date|date:"%b %e, %Y" }}
     </li>
   {% endfor %}
   </ul>

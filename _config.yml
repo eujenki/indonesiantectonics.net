@@ -1,17 +1,15 @@
 # Built with Jekyll 3.6.0
 
 # Setup
-title:               bitcoin quotes
-tagline:             'understand bitcoin through quotes from famous thinkers'
+title:               indonesian tectonics
+tagline:             'tagline'
 description:         ''
-url:                 'http://bitcoinquotes.net'
+url:                 'http://indonesiantectonics.net'
 baseurl:             ''
 
-# About/contact
-author:
-  name:              Ionuț Bizău
-  url:               https://twitter.com/ibz
-  email:             bitcoinquotes@ibz.me
+# About/contact        
+  url:               
+  email:             
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
 color-scheme:
